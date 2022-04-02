@@ -9,3 +9,5 @@ Updating file
 Some changes
 
 this is going to cause trouble
+
+A change where stash were saved
