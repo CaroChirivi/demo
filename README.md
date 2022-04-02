@@ -10,4 +10,8 @@ Some changes
 
 this is going to cause trouble
 
+<<<<<<< Updated upstream
 A change where stash were saved
+=======
+Just something go on
+>>>>>>> Stashed changes
